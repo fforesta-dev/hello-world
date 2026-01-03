@@ -12,7 +12,7 @@ The purpose of creating this software is to practice structuring a
 simple application using modules and classes, preparing for more
 complex software development tasks later in the course.
 
-[Software Demo Video](PASTE_YOUR_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://youtu.be/xEkqLfyC57M)
 
 # Development Environment
 
